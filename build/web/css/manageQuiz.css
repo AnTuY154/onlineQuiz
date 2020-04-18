@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 25, 2020, 4:24:37 PM
+    Author     : Darkness_King
+*/
+.managQues{
+    display: flex;
+}
+.itemManage1{
+    min-width: 400px;
+    max-width: 400px;
+}
+.itemManafe2{
+    min-width: 200px;
+    max-width: 250px;
+}
+.itemManafe3{
+    float: right;
+    margin-left: 30px;
+}
+.paging
+{
+    margin-top: 40px;
+    text-align: center;
+}
+.paging a{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 2px;
+    border: 1px solid;
+}
